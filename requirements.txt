@@ -1,10 +1,12 @@
-
-
 requests
-
-plotly
 
 pandas
 
+plotly
+
+
 python-dotenv
 
+
+# for testing:
+pytest
